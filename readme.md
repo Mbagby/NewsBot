@@ -1,4 +1,4 @@
-News Bot Project
+News Bot
 
 Authors:
 
